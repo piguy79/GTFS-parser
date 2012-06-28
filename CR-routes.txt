@@ -1,0 +1,12 @@
+CR-Fairmount,1,,Fairmount Line,,2,,8B118F,FFFFFF
+CR-Fitchburg,1,,Fitchburg/South Acton Line,,2,,8B118F,FFFFFF
+CR-Worcester,1,,Framingham/Worcester Line,,2,,8B118F,FFFFFF
+CR-Franklin,1,,Franklin Line,,2,,8B118F,FFFFFF
+CR-Greenbush,1,,Greenbush Line,,2,,8B118F,FFFFFF
+CR-Haverhill,1,,Haverhill Line,,2,,8B118F,FFFFFF
+CR-Lowell,1,,Lowell Line,,2,,8B118F,FFFFFF
+CR-Needham,1,,Needham Line,,2,,8B118F,FFFFFF
+CR-Newburyport,1,,Newburyport/Rockport Line,,2,,8B118F,FFFFFF
+CR-Providence,1,,Providence/Stoughton Line,,2,,8B118F,FFFFFF
+CR-Kingston,1,,Kingston/Plymouth Line,,2,,8B118F,FFFFFF
+CR-Middleborough,1,,Middleborough/Lakeville Line,Weekend service suspended and schedules subject to change due to tie replacement project. See mbta.com for more.,2,,8B118F,FFFFFF
