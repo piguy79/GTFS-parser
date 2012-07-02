@@ -9,4 +9,4 @@ CR-Needham,1,,Needham Line,,2,,8B118F,FFFFFF
 CR-Newburyport,1,,Newburyport/Rockport Line,,2,,8B118F,FFFFFF
 CR-Providence,1,,Providence/Stoughton Line,,2,,8B118F,FFFFFF
 CR-Kingston,1,,Kingston/Plymouth Line,,2,,8B118F,FFFFFF
-CR-Middleborough,1,,Middleborough/Lakeville Line,Weekend service suspended and schedules subject to change due to tie replacement project. See mbta.com for more.,2,,8B118F,FFFFFF
+CR-Middleborough,1,,Middleborough/Lakeville Line,,2,,8B118F,FFFFFF

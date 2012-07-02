@@ -1,5 +1,6 @@
 "stop_id","stop_code","stop_name","stop_desc","stop_lat","stop_lon","zone_id","stop_url","location_type","parent_station"
 "place-alfcl","","Alewife Station","","42.395428","-71.142483","","",1,""
+"place-alsgr","","Allston St. Station","","42.348701","-71.137955","","",1,""
 "place-andrw","","Andrew Station","","42.330154","-71.057655","","",1,""
 "place-aport","","Airport Station","","42.374262","-71.030395","","",1,""
 "place-aqucl","","Aquarium Station","","42.359784","-71.051652","","",1,""
@@ -7,10 +8,12 @@
 "place-asmnl","","Ashmont Station","","42.284652","-71.064489","","",1,""
 "place-babck","","Babcock St. Station","","42.35182","-71.12165","","",1,""
 "place-bbsta","","Back Bay Station","","42.34735","-71.075727","","",1,""
+"place-bckhl","","Back of the Hill Station","","42.330139","-71.111313","","",1,""
 "place-bcnfd","","Beaconsfield Station","","42.335846","-71.140823","","",1,""
 "place-bcnwa","","Washington Sq. Station","","42.339394","-71.13533","","",1,""
 "place-bland","","Blandford St. Station","","42.349293","-71.100258","","",1,""
 "place-bmmnl","","Beachmont Station","","42.39754234","-70.99231944","","",1,""
+"place-bndhl","","Brandon Hall Station","","42.340023","-71.129082","","",1,""
 "place-bomnl","","Bowdoin Station","","42.361365","-71.062037","","",1,""
 "place-boyls","","Boylston Station","","42.35302","-71.06459","","",1,""
 "place-brdwy","","Broadway Station","","42.342622","-71.056967","","",1,""
@@ -18,40 +21,58 @@
 "place-brkhl","","Brookline Hills Station","","42.331333","-71.126999","","",1,""
 "place-brmnl","","Brigham Circle Station","","42.334229","-71.104609","","",1,""
 "place-brntn","","Braintree Station","","42.2078543","-71.0011385","","",1,""
+"place-bucen","","Boston Univ. Central Station","","42.350082","-71.106865","","",1,""
+"place-buest","","Boston Univ. East Station","","42.349735","-71.103889","","",1,""
+"place-butlr","","Butler Station","","42.272343","-71.062584","","",1,""
+"place-buwst","","Boston Univ. West Station","","42.350941","-71.113876","","",1,""
 "place-bvmnl","","Brookline Village Station","","42.332774","-71.116296","","",1,""
+"place-capst","","Capan St. Station","","42.267712","-71.087753","","",1,""
 "place-ccmnl","","Community College Station","","42.373622","-71.069533","","",1,""
+"place-cedgr","","Cedar Grove Station","","42.279682","-71.060432","","",1,""
+"place-cenav","","Central Ave. Station","","42.270027","-71.073334","","",1,""
 "place-chhil","","Chestnut Hill Station","","42.326653","-71.165314","","",1,""
 "place-chill","","Chestnut Hill Ave. Station","","42.338169","-71.15316","","",1,""
 "place-chmnl","","Charles/MGH Station","","42.361166","-71.070628","","",1,""
 "place-chncl","","Chinatown Station","","42.352547","-71.062752","","",1,""
+"place-chswk","","Chiswick Rd. Station","","42.340805","-71.150711","","",1,""
 "place-clmnl","","Cleveland Circle Station","","42.336142","-71.149326","","",1,""
 "place-cntsq","","Central Square Station","","42.365486","-71.103802","","",1,""
 "place-coecl","","Copley Station","","42.349974","-71.077447","","",1,""
 "place-cool","","Coolidge Corner Station","","42.342213","-71.121201","","",1,""
 "place-crtst","","Court House Station","","42.35245","-71.04685","","",1,""
 "place-davis","","Davis Station","","42.39674","-71.121815","","",1,""
+"place-denrd","","Dean Rd. Station","","42.337807","-71.141853","","",1,""
 "place-dwnxg","","Downtown Crossing Station","","42.355518","-71.060225","","",1,""
 "place-eliot","","Eliot Station","","42.319023","-71.216713","","",1,""
+"place-engav","","Englewood Ave. Station","","42.336971","-71.14566","","",1,""
+"place-fbkst","","Fairbanks St. Station","","42.339725","-71.131073","","",1,""
+"place-fenwd","","Fenwood Rd. Station","","42.333706","-71.105728","","",1,""
 "place-fenwy","","Fenway Station","","42.345394","-71.104187","","",1,""
 "place-fldcr","","Fields Corner Station","","42.300093","-71.061667","","",1,""
 "place-forhl","","Forest Hills Station","","42.300523","-71.113686","","",1,""
 "place-gover","","Government Center Station","","42.359705","-71.059215","","",1,""
+"place-grigg","","Griggs St. Station","","42.348545","-71.134949","","",1,""
 "place-grnst","","Green St. Station","","42.310525","-71.107414","","",1,""
 "place-haecl","","Haymarket Station","","42.363021","-71.05829","","",1,""
 "place-harsq","","Harvard Square Station","","42.373362","-71.118956","","",1,""
 "place-harvd","","Harvard Ave. Station","","42.350243","-71.131355","","",1,""
 "place-hsmnl","","Heath St. Station","","42.328681","-71.110559","","",1,""
+"place-hwsst","","Hawes St. Station","","42.344906","-71.111145","","",1,""
 "place-hymnl","","Hynes Convention Center Station","","42.347888","-71.087903","","",1,""
 "place-jaksn","","Jackson Square Station","","42.323132","-71.099592","","",1,""
 "place-jfk","","JFK/UMass Station","","42.320685","-71.052391","","",1,""
 "place-kencl","","Kenmore Station","","42.348949","-71.095169","","",1,""
 "place-knncl","","Kendall/MIT Station","","42.36249079","-71.08617653","","",1,""
+"place-kntst","","Kent St. Station","","42.344074","-71.114197","","",1,""
 "place-lake","","Boston College Station","","42.340081","-71.166769","","",1,""
 "place-lech","","Lechmere Station","","42.370772","-71.076536","","",1,""
+"place-lngmd","","Longwood Medical Area Station","","42.33596","-71.100052","","",1,""
 "place-longw","","Longwood Station","","42.341145","-71.110451","","",1,""
 "place-masta","","Massachusetts Ave. Station","","42.341512","-71.083423","","",1,""
 "place-matt","","Mattapan Station","","42.267762","-71.092241","","",1,""
 "place-mfa","","Museum of Fine Arts Station","","42.337711","-71.095512","","",1,""
+"place-miltt","","Milton Station","","42.270306","-71.067673","","",1,""
+"place-mispk","","Mission Park Station","","42.333195","-71.109756","","",1,""
 "place-mlmnl","","Malden Center Station","","42.426632","-71.07411","","",1,""
 "place-mvbcl","","Maverick Station","","42.36911856","-71.03952958","","",1,""
 "place-newtn","","Newton Highlands Station","","42.321735","-71.206116","","",1,""
@@ -62,6 +83,7 @@
 "place-ogmnl","","Oak Grove Station","","42.43668","-71.071097","","",1,""
 "place-orhte","","Orient Heights Station","","42.386867","-71.004736","","",1,""
 "place-pktrm","","Park St. Station","","42.35639457","-71.0624242","","",1,""
+"place-plsgr","","Pleasant St. Station","","42.351521","-71.118889","","",1,""
 "place-portr","","Porter Square Station","","42.3884","-71.119149","","",1,""
 "place-prmnl","","Prudential Station","","42.34557","-71.081696","","",1,""
 "place-qamnl","","Quincy Adams Station","","42.233391","-71.007153","","",1,""
@@ -71,18 +93,25 @@
 "place-river","","Riverside Station","","42.337059","-71.251742","","",1,""
 "place-rsmnl","","Reservoir Station","","42.335027","-71.148952","","",1,""
 "place-rugg","","Ruggles Station","","42.336377","-71.088961","","",1,""
+"place-rvrwy","","Riverway Station","","42.331684","-71.111931","","",1,""
 "place-sbmnl","","Stony Brook Station","","42.317062","-71.104248","","",1,""
 "place-sdmnl","","Suffolk Downs Station","","42.39050067","-70.99712259","","",1,""
 "place-shmnl","","Savin Hill Station","","42.31129","-71.053331","","",1,""
 "place-smary","","Saint Mary St. Station","","42.345974","-71.107353","","",1,""
 "place-smmnl","","Shawmut Station","","42.29312583","-71.06573796","","",1,""
+"place-sougr","","South St. Station","","42.3396","-71.157661","","",1,""
 "place-spmnl","","Science Park Station","","42.366664","-71.067666","","",1,""
 "place-sstat","","South Station","","42.352271","-71.055242","","",1,""
 "place-state","","State St. Station","","42.358978","-71.057598","","",1,""
+"place-sthld","","Sutherland Rd. Station","","42.341614","-71.146202","","",1,""
+"place-stplb","","Saint Paul St. Station","","42.3512","-71.116104","","",1,""
 "place-stpul","","Saint Paul St. Station","","42.343327","-71.116997","","",1,""
 "place-sull","","Sullivan Station","","42.383975","-71.076994","","",1,""
+"place-sumav","","Summit Ave. Station","","42.34111","-71.12561","","",1,""
 "place-symcl","","Symphony Station","","42.342687","-71.085056","","",1,""
+"place-tapst","","Tappan St. Station","","42.338459","-71.138702","","",1,""
 "place-tumnl","","Tufts Medical Center Station","","42.349662","-71.063917","","",1,""
+"place-valrd","","Valley Rd. Station","","42.268322","-71.081566","","",1,""
 "place-waban","","Waban Station","","42.325943","-71.230728","","",1,""
 "place-wascm","","Washington St. Station","","42.343864","-71.142853","","",1,""
 "place-welln","","Wellington Station","","42.40237","-71.077082","","",1,""
@@ -90,6 +119,7 @@
 "place-wlsta","","Wollaston Station","","42.2665139","-71.0203369","","",1,""
 "place-wondl","","Wonderland Station","","42.41342","-70.991648","","",1,""
 "place-woodl","","Woodland Station","","42.333374","-71.244301","","",1,""
+"place-wrnst","","Warren St. Station","","42.348343","-71.140457","","",1,""
 "place-wtcst","","World Trade Center Station","","42.34863","-71.04246","","",1,""
 "1","1","Washington St opp Ruggles St",,"42.330956","-71.082756",,,,
 "10","10","Theo Glynn Way @ Newmarket Sq",,"42.330868","-71.06842",,,,
@@ -220,7 +250,7 @@
 "1094","1094","Faneuil St @ Fairbanks St",,"42.352367","-71.163017",,,,
 "1095","1095","Faneuil St @ Oakland St",,"42.3526","-71.160683",,,,
 "1096","1096","Faneuil St opp Bothwell Rd",,"42.353035","-71.159546",,,,
-"1097","1097","Faneuil St @ Hobart St",,"42.35397","-71.158134",,,,
+"1097","1097","Faneuil St @ S Hobart St",,"42.35397","-71.158134",,,,
 "1098","1098","Hobart St @ Falkland St",,"42.354858","-71.158562",,,,
 "11","11","Melnea Cass Blvd @ Kerr Way",,"42.334763","-71.084457",,,,
 "110","110","Massachusetts Ave @ Holyoke St - Holyoke Gate",,"42.37326","-71.118126",,,,
@@ -332,7 +362,7 @@
 "11613","11613","W Boundary Rd @ Washington St",,"42.267433","-71.149986",,,,
 "1162","1162","Centre St @ Lakeville Rd",,"42.315868","-71.114128",,,,
 "1164","1164","Centre St @ Myrtle St",,"42.313305","-71.114159",,,,
-"1165","1165","Washington St @ W Walnut Pk",,"42.316307","-71.09771",,,,
+"1165","1165","Washington St @ W Walnut Pk",,"42.316448","-71.097565",,,,
 "1166","1166","Washington St @ Cobden St",,"42.317577","-71.096451",,,,
 "1167","1167","Washington St opp Dimock St",,"42.318901","-71.095139",,,,
 "11673","11673","209 Cambridge St",,"42.452995","-71.157951",,,,
@@ -619,7 +649,7 @@
 "13618","13618","Washington St @ School St",,"42.24757","-71.173927",,,,
 "1362","1362","Tremont St @ Huntington Ave",,"42.33403","-71.104294",,,,
 "1363","1363","Huntington Ave @ Fenwood Rd",,"42.33374","-71.105721",,,,
-"1365","1365","835 Huntington Ave opp Parker Hill Ave",,"42.333324","-71.109573",,,,
+"1365","1365","835 Huntington Ave opp Parker Hill Ave",,"42.333309","-71.109573",,,,
 "1366","1366","Huntington Ave @ Riverway",,"42.332008","-71.112602",,,,
 "1367","1367","Harvard St @ Kent St",,"42.33326","-71.118668",,,,
 "1368","1368","Harvard St @ Linden St",,"42.334759","-71.119217",,,,
@@ -754,7 +784,7 @@
 "1445","1445","Arsenal St @ Watertown + Arsenal Mall",,"42.36311","-71.159447",,,,
 "14460","14460","Highland Ave @ Salem Hospital",,"42.511749","-70.90892",,,,
 "14464","14464","Highland Ave opp First St",,"42.506058","-70.919128",,,,
-"14465","14465","Highland Ave @ Hawthorne Sq",,"42.504326","-70.922173",,,,
+"14465","14465","Highland Ave @ Hawthorne Sq",,"42.504501","-70.921921",,,,
 "14468","14468","Highland Ave opp Cedar Rd",,"42.497971","-70.930481",,,,
 "1447","1447","Arsenal St opp Arsenal Ct Dr",,"42.363667","-71.16481",,,,
 "14470","14470","Highland Ave @ Wal Mart",,"42.490749","-70.935806",,,,
@@ -768,7 +798,7 @@
 "14543","14543","435 Highland Ave",,"42.493782","-70.9338",,,,
 "14544","14544","Highland Ave opp Olde Village Dr",,"42.496067","-70.932236",,,,
 "14546","14546","331 Highland Ave",,"42.500172","-70.927231",,,,
-"14548","14548","Highland Ave @ Hawthorne Sq",,"42.50436","-70.921677",,,,
+"14548","14548","Highland Ave @ Hawthorne Sq",,"42.504555","-70.921356",,,,
 "14551","14551","Highland Ave @ Wilson St",,"42.509628","-70.910469",,,,
 "14552","14552","Highland Ave @ Almeda St",,"42.510464","-70.909882",,,,
 "14553","14553","Highland Ave opp Proctor St",,"42.513241","-70.90728",,,,
@@ -937,7 +967,6 @@
 "15660","15660","Blue Hill Ave @ Devon St",,"42.310722","-71.081573",,,,
 "15661","15661","Blue Hill Ave @ Lawrence Ave",,"42.313396","-71.079498",,,,
 "1567","1567","Blue Hill Ave @ Intervale St",,"42.311775","-71.08075",,,,
-"1568","1568","Blue Hill Ave @ Creston St",,"42.312576","-71.080101",,,,
 "1569","1569","Blue Hill Ave @ Quincy St",,"42.314495","-71.078819",,,,
 "157","157","W Broadway @ Dorchester St",,"42.335514","-71.045822",,,,
 "1570","1570","Blue Hill Ave @ Woodcliff St",,"42.31612","-71.078102",,,,
@@ -949,10 +978,11 @@
 "1576","1576","Blue Hill Ave @ Dudley St",,"42.325123","-71.07502",,,,
 "1577","1577","Blue Hill Ave @ Mt Pleasant Ave",,"42.325123","-71.075172",,,,
 "15775","15775","Revere St @ Sachem St",,"42.418663","-70.989769",,,,
-"15778","15778","Ocean Ave @  Chester Ave",,"42.412735","-70.990761",,,,
+"15778","15778","Ocean Ave @  Chester Ave",,"42.41342","-70.991648",,,,"place-wondl"
 "1578","1578","Blue Hill Ave @ Winthrop St",,"42.32349","-71.076309",,,,
 "15787","15787","Beach St @ Cary Ave",,"42.409298","-71.006897",,,,
 "1579","1579","Blue Hill Ave opp Stafford St",,"42.32214","-71.077232",,,,
+"15795","15795","Wonderland West Busway",,"42.41342","-70.991648",,,,"place-wondl"
 "158","158","442 W Broadway",,"42.336216","-71.046722",,,,
 "1580","1580","Blue Hill Ave @ Irwin St",,"42.321121","-71.077606",,,,
 "1581","1581","Blue Hill Ave @ Clifford St",,"42.318893","-71.077812",,,,
@@ -1410,7 +1440,7 @@
 "1994","1994","Winship St @ Union St",,"42.346188","-71.152451",,,,
 "2","2","Washington St @ Melnea Cass Blvd",,"42.332325","-71.081253",,,,
 "20","20","Dorchester St @ E Broadway",,"42.335377","-71.045731",,,,
-"20009","20009","Massachusetts Ave @ Pierson St",,"42.329578","-71.069267",,,,
+"20009","20009","Massachusetts Ave @ Peirson St",,"42.329578","-71.069267",,,,
 "2002","2002","Centre St @ Arborway",,"42.308949","-71.120575",,,,
 "2003","2003","Centre St @ Ballard St",,"42.308723","-71.118111",,,,
 "2005","2005","South St @ Custer St",,"42.307735","-71.115578",,,,
@@ -1950,7 +1980,7 @@
 "2515","2515","Windsor St @ Lincoln St",,"42.371052","-71.093979",,,,
 "2516","2516","Windsor St @ Hampshire St",,"42.368851","-71.09481",,,,
 "2517","2517","Hampshire St @ Clark St",,"42.367332","-71.093178",,,,
-"2518","2518","Hampshire St @ Broadway",,"42.366142","-71.091743",,,,
+"2518","2518","Hampshire St @ Portland St",,"42.366142","-71.091743",,,,
 "2519","2519","Avon St @ Central St",,"42.386467","-71.104568",,,,
 "252","252","W 7th  St @ C St",,"42.337231","-71.055504",,,,
 "2520","2520","Avon St @ School St",,"42.384899","-71.100189",,,,
@@ -2009,7 +2039,7 @@
 "258","258","E 8th St @ Dorchester St",,"42.332672","-71.05098",,,,
 "2580","2580","Holland St @ Jay St",,"42.399197","-71.124817",,,,
 "25800","25800","E 8th St @ Mercer St",,"42.331539","-71.049156",,,,
-"2581","2581","Holland St @ Dover St",,"42.396652","-71.122749",,,,
+"2581","2581","Holland St @ Dover St",,"42.396931","-71.122971",,,,
 "2582","2582","Elm St @ Chester St",,"42.395149","-71.121857",,,,
 "2583","2583","Elm St @ Russell St",,"42.393646","-71.120872",,,,
 "2584","2584","Elm St @ Beech St",,"42.391598","-71.119217",,,,
@@ -2048,7 +2078,7 @@
 "2612","2612","Somerville Ave @ Stone Ave",,"42.379547","-71.095161",,,,
 "2613","2613","Washington St @ Webster Ave",,"42.379612","-71.096878",,,,
 "26131","26131","Bow St @ Warren Ave",,"42.380272","-71.096619",,,,
-"2614","2614","45 Bow St",,"42.381638","-71.097649",,,,
+"2614","2614","Summer St @ Wesley Park",,"42.382141","-71.09819",,,,
 "2615","2615","Washington St opp Parker St",,"42.379375","-71.100029",,,,
 "2616","2616","Washington St @ Leland St",,"42.379215","-71.102699",,,,
 "2617","2617","Somerville Ave @ Loring St",,"42.38269","-71.104057",,,,
@@ -2065,7 +2095,7 @@
 "263","263","E 8th St @ I St",,"42.331329","-71.039963",,,,
 "2630","2630","Holland St @ Wallace St",,"42.39806","-71.123726",,,,
 "2631","2631","Holland St @ Paulina St",,"42.39978","-71.125137",,,,
-"2632","2632","Holland St opp Cameron Ave",,"42.400959","-71.126068",,,,
+"2632","2632","Holland St opp Cameron Ave",,"42.40107","-71.126091",,,,
 "2633","2633","225 Holland St",,"42.402287","-71.126678",,,,
 "2634","2634","Broadway @ Curtis St",,"42.403374","-71.127335",,,,
 "2635","2635","Broadway @ Dickson St",,"42.403965","-71.128532",,,,
@@ -2527,7 +2557,6 @@
 "31187","31187","Washington St @ Ophir St",,"42.310665","-71.103394",,,,
 "3119","3119","W Squantum St @ Bowdoin St",,"42.268982","-71.035812",,,,
 "312","312","Auckland St @ Dewar Ave",,"42.309914","-71.056946",,,,
-"3120","3120","W Squantum St @ Amesbury St",,"42.269665","-71.034439",,,,
 "3121","3121","W Squantum St opp Harriet Ave",,"42.270172","-71.033546",,,,
 "3122","3122","W Squantun St opp Division St",,"42.270821","-71.032745",,,,
 "3123","3123","W Squantum @ Small St",,"42.271591","-71.032013",,,,
@@ -2865,33 +2894,15 @@
 "342","342","Dorchester Ave @ Parkman St",,"42.296032","-71.061333",,,,
 "3420","3420","School St @ Phipps St",,"42.24419","-71.002731",,,,
 "3421","3421","Hancock St @ Elm st",,"42.245548","-71.000221",,,,
-"3422","3422","Hancock St @ Revere Rd",,"42.246704","-71.000755",,,,
+"3422","3422","Hancock St @ Walter J Hannon Pkwy",,"42.246704","-71.000755",,,,
 "3423","3423","Hancock St @ Cottage Ave",,"42.248096","-71.001518",,,,
-"3424","3424","1372 Hancock St",,"42.249817","-71.002579",,,,
+"3424","3424","1372 Hancock St",,"42.250286","-71.002563",,,,
 "3425","3425","Coddington St @ Southern Artery",,"42.255318","-70.99688",,,,
 "3426","3426","McGrath Hwy @ Brackett St",,"42.252155","-70.996933",,,,
 "343","343","Dorchester Ave @ Gibson St",,"42.2971","-71.061005",,,,
-"3433","3433","Rice Rd @ Fenno St",,"42.269978","-71.005943",,,,
-"3434","3434","Fenno St @ Haviland St",,"42.27198","-71.001518",,,,
-"3437","3437","Princess Eve Dr opp Lois Terr",,"42.273605","-71.0019",,,,
-"3438","3438","40 Princess Eve Dr",,"42.27396","-71.003479",,,,
-"3439","3439","Princess Eve Dr @ Rice Rd",,"42.273712","-71.004616",,,,
-"3440","3440","Franklin Ave @ Rice Rd",,"42.27243","-71.006401",,,,
-"3441","3441","Franklin Ave opp Sewall St",,"42.272671","-71.008362",,,,
-"3442","3442","Franklin Ave @ Copley St",,"42.273319","-71.009544",,,,
-"3443","3443","Franklin Ave @ Sachem St",,"42.274086","-71.010315",,,,
-"3444","3444","Franklin Ave @ W Elm Ave",,"42.274448","-71.012016",,,,
-"3446","3446","Beach St @ Billings Rd",,"42.275967","-71.014069",,,,
-"3447","3447","Beach St @ Cummings Ave",,"42.274628","-71.014603",,,,
-"3448","3448","182 Beach St",,"42.273376","-71.015114",,,,
-"3449","3449","Beach St @ Rawson Rd",,"42.272549","-71.015457",,,,
 "345","345","Dorchester Ave opp Charles St",,"42.300648","-71.05999",,,,
-"3450","3450","112 Beach St",,"42.271454","-71.015846",,,,
-"3451","3451","Beach St @ Willow St",,"42.270737","-71.015488",,,,
 "34513","34513","Huntington Ave @ Mass Ave",,"42.342525","-71.084938",,,,
 "34514","34514","Huntington Ave @ Mass Ave",,"42.342899","-71.084976",,,,
-"3452","3452","Beach St @ Phillips St",,"42.270058","-71.015686",,,,
-"3453","3453","Beach St opp Kemper St",,"42.268715","-71.016083",,,,
 "3454","3454","Beale St opp Old Colony Ave",,"42.265961","-71.018936",,,,
 "3455","3455","Beale St @ Farrington St",,"42.264133","-71.021469",,,,
 "3457","3457","Beale St @ Highland Ave",,"42.262638","-71.023468",,,,
@@ -2944,18 +2955,9 @@
 "3495","3495","Beale St opp Safford St",,"42.263462","-71.022148",,,,
 "3496","3496","Beale St @ Farrington St",,"42.263939","-71.021545",,,,
 "3497","3497","Beale St @ Old Colony Ave",,"42.265774","-71.019043",,,,
-"3498","3498","Beach St @ Kemper St",,"42.268517","-71.016006",,,,
 "35","35","P St @ E Broadway",,"42.335838","-71.027245",,,,
 "350","350","Dorchester Ave @ Dewar St",,"42.310089","-71.0578",,,,
-"3501","3501","117 Beach St",,"42.271454","-71.015717",,,,
-"3505","3505","Beach St @ Billings Rd",,"42.275997","-71.013924",,,,
-"3507","3507","Franklin Ave @ W Elm Ave",,"42.274345","-71.011971",,,,
-"3508","3508","Franklin Ave @ Sachem St",,"42.274059","-71.01059",,,,
-"3509","3509","Franklin Ave opp Copley St",,"42.273499","-71.009819",,,,
 "351","351","Dorchester Ave @ Savin Hill Ave",,"42.312996","-71.057144",,,,
-"3510","3510","Franklin Ave @ Sewall St",,"42.272606","-71.008621",,,,
-"3511","3511","Franklin Ave @ Rice Rd",,"42.272327","-71.00634",,,,
-"3512","3512","Rice Rd @ Wendall Ave",,"42.270927","-71.006676",,,,
 "3513","3513","Boston Ave @ High St",,"42.421062","-71.136955",,,,
 "3515","3515","Washington St @ Foster  St",,"42.250828","-71.000473",,,,
 "3516","3516","Washington St @ McGrath Hwy",,"42.250267","-70.998543",,,,
@@ -3947,7 +3949,7 @@
 "4462","4462","Highland Ave @ Cherry Hill Ave",,"42.50914","-70.911148",,,,
 "4463","4463","Highland Ave @ Valley St",,"42.508526","-70.912224",,,,
 "4464","4464","Highland Ave @ Freeman Rd",,"42.507648","-70.9151",,,,
-"4465","4465","Highland Ave @ Marlborough Rd",,"42.502995","-70.924248",,,,
+"4465","4465","Highland Ave @ Marlborough Rd",,"42.503098","-70.924179",,,,
 "4466","4466","Boston St @ Federal St",,"42.518688","-70.908234",,,,
 "44661","44661","Boston St opp Nichols St",,"42.520599","-70.912079",,,,
 "4467","4467","Highland Ave @ Thomas Circle",,"42.501396","-70.92585",,,,
@@ -4197,7 +4199,7 @@
 "472","472","Washington St @ Jeremiah Burke HS",,"42.306278","-71.081657",,,,
 "4720","4720","McClellan Highway opp Suffolk Downs",,"42.393593","-71.011589",,,,
 "4721","4721","McClellan Highway @ Boardman St",,"42.39172","-71.013115",,,,
-"4722","4722","McClellan Highway opp Addison St",,"42.386215","-71.019379",,,,
+"4722","4722","McClellan Highway opp Addison St",,"42.386238","-71.019424",,,,
 "4727","4727","McClellan Highway @ Addison St",,"42.386143","-71.019173",,,,
 "4728","4728","McClellan Highway @ Boardman St",,"42.391563","-71.012886",,,,
 "473","473","Washington St @ Columbia Rd",,"42.305298","-71.080322",,,,
@@ -4275,7 +4277,7 @@
 "4797","4797","Pleasant St @ Gerry St",,"42.497597","-70.860764",,,,
 "4799","4799","Pleasant St opp Bessom St",,"42.50024","-70.858673",,,,
 "48","48","Dorchester St @ W 6th St",,"42.334118","-71.048752",,,,
-"480","480","Washington St @ Agonguin St",,"42.298107","-71.072914",,,,
+"480","480","Washington St @ Agonquin St",,"42.298107","-71.072914",,,,
 "4800","4800","Pleasant St opp Anderson St",,"42.501019","-70.857651",,,,
 "4801","4801","Pleasant St @ Essex St",,"42.502769","-70.855515",,,,
 "4802","4802","Pleasant St @ Rockaway St",,"42.504139","-70.853096",,,,
@@ -4984,12 +4986,12 @@
 "5543","5543","Park Ave @ Lambert St",,"42.41394","-71.026695",,,,
 "5544","5544","633 Park Ave",,"42.414532","-71.028854",,,,
 "5546","5546","Park Ave @ McLeavey St",,"42.41502","-71.030609",,,,
-"5547","5547","Elm St @ Haskell Ave - Haskell Loop",,"42.415672","-71.033134",,,,
-"5549","5549","Elm St @ Woodlawn Ave",,"42.415543","-71.033913",,,,
+"5547","5547","Elm St opp Haskell Ave",,"42.415684","-71.033134",,,,
+"5549","5549","Elm St @ Woodlawn Ave",,"42.415432","-71.034233",,,,
 "555","555","Geneva Ave @ Dakota St",,"42.300335","-71.06636",,,,
 "5550","5550","Elm St @ Adams Ave",,"42.414001","-71.037041",,,,
 "5552","5552","Elm St @ Jefferson Ave",,"42.413555","-71.039642",,,,
-"5553","5553","Elm St opp Woodlawn Ave",,"42.413338","-71.042152",,,,
+"5553","5553","Elm St opp Woodlawn St",,"42.413338","-71.042152",,,,
 "5554","5554","Elm St @ Ferry St",,"42.412498","-71.045609",,,,
 "5555","5555","Ferry St @ Chestnut St",,"42.409958","-71.045746",,,,
 "5556","5556","Ferry St @ Arlington St",,"42.408493","-71.046211",,,,
@@ -5018,7 +5020,7 @@
 "5574","5574","Elm St @ Englewood Ave",,"42.414013","-71.036736",,,,
 "5575","5575","Elm St @ Duncan Rd",,"42.414742","-71.035599",,,,
 "5576","5576","289 Elm St",,"42.415127","-71.034798",,,,
-"5577","5577","Elm St @ Haskell Ave",,"42.415588","-71.033058",,,,
+"5577","5577","Elm St @ Haskell Ave",,"42.415588","-71.033104",,,,
 "5578","5578","682 Park Ave opp McCleavey St",,"42.414909","-71.030579",,,,
 "5579","5579","618 Park Ave",,"42.414364","-71.028618",,,,
 "558","558","Geneva Ave @ Westville St",,"42.300926","-71.067154",,,,
@@ -5043,7 +5045,7 @@
 "5597","5597","Washington Ave @ Reynolds Ave",,"42.403053","-71.036278",,,,
 "5598","5598","296 Washington Ave opp Jefferson Ave",,"42.402027","-71.0354",,,,
 "5599","5599","Washington Ave @ Carmel St",,"42.400402","-71.03347",,,,
-"56","56","Southhampton St @ Atkinson St",,"42.33197","-71.069267",,,,
+"56","56","Southampton St @ Atkinson St",,"42.33197","-71.069267",,,,
 "560","560","Geneva Ave @ Holiday St",,"42.302246","-71.069382",,,,
 "5600","5600","Washington Ave @ Spruce St",,"42.399426","-71.032318",,,,
 "5601","5601","Washington Ave @ Cary Ave",,"42.398033","-71.030991",,,,
@@ -5081,7 +5083,7 @@
 "5633","5633","Washington Ave @ Prospect Ave",,"42.412239","-71.031311",,,,
 "5634","5634","Washington Ave @ Arnold St",,"42.414383","-71.031868",,,,
 "5635","5635","Meridian St @ Condor St",,"42.382507","-71.039246",,,,
-"5636","5636","Washington Ave @ Park Ave",,"42.415436","-71.03244",,,,
+"5636","5636","Washington Ave @ Park Ave",,"42.415398","-71.032394",,,,
 "5637","5637","Chelsea St @ Victoria St",,"42.406399","-71.054382",,,,
 "5638","5638","Chelsea St @ Spring St",,"42.40517","-71.051941",,,,
 "5639","5639","137 Chelsea St opp Mead St",,"42.404457","-71.049896",,,,
@@ -5221,7 +5223,6 @@
 "5774","5774","Revere St @ Sagamore St",,"42.418568","-70.993034",,,,
 "5775","5775","Revere St @ N Shore Rd",,"42.418625","-70.991272",,,,
 "5776","5776","Ocean Ave @ Revere St",,"42.418606","-70.988029",,,,
-"5778","5778","Wonderland Station Busway",,"42.41342","-70.991648",,,,"place-wondl"
 "5779","5779","376 Ocean Ave",,"42.409977","-70.991577",,,,
 "578","578","River St @ Newcroft Circle",,"42.271152","-71.084457",,,,
 "5780","5780","Ocean Ave @ Beach St",,"42.408607","-70.99192",,,,
@@ -5237,7 +5238,6 @@
 "5792","5792","Beach St @ Eustis St",,"42.409229","-71.006775",,,,
 "5793","5793","341 Beach St opp Thurlow Ave",,"42.409199","-71.004898",,,,
 "5794","5794","Beach St @ Harris St - Bell Circle",,"42.408993","-71.003578",,,,
-"5795","5795","N Shore Rd @ Wonderland Station",,"42.41342","-70.991648",,,,"place-wondl"
 "5796","5796","Beach St @ Thornton St",,"42.409531","-70.997711",,,,
 "5797","5797","Beach St @ Walnut Ave",,"42.409191","-70.996758",,,,
 "57971","57971","Beach St @ Nahant Ave",,"42.408726","-70.995506",,,,
@@ -5413,6 +5413,7 @@
 "59817","59817","Lexington St @ Willow St",,"42.47303","-71.172684",,,,
 "5982","5982","Pleasant St @ Everett St",,"42.45055","-71.070518",,,,
 "5983","5983","Pleasant St @ Frances St",,"42.449478","-71.070641",,,,
+"59837","59837","Pine St opp Floyd St",,"42.484261","-71.124428",,,,
 "5985","5985","Pleasant St @ Gould St",,"42.448174","-71.071564",,,,
 "5986","5986","Pleasant St @ Converse Ln",,"42.446491","-71.071854",,,,
 "5987","5987","Pleasant St @ Washington St",,"42.443722","-71.072174",,,,
@@ -5759,7 +5760,7 @@
 "65467","65467","Hyde Park Ave @ Madison St",,"42.247303","-71.127861",,,,
 "6547","6547","Devonshire St @ State St",,"42.358601","-71.057312",,,,
 "6548","6548","Devonshire St @ Milk St",,"42.356655","-71.057388",,,,
-"6550","6550","Lincoln St @ Beach St",,"42.350803","-71.058502",,,,
+"6550","6550","Lincoln St @ Beach St",,"42.350964","-71.058456",,,,
 "6551","6551","Federal St @ Franklin St",,"42.355286","-71.056412",,,,
 "65541","65541","Washington St @ Prospect St",,"42.345764","-71.233475",,,,
 "65542","65542","Washington St @ Auburn St",,"42.344978","-71.234459",,,,
@@ -6130,38 +6131,38 @@
 "70105","70105","Braintree Station Red Line Platform",,"42.2078543","-71.0011385",,,,"place-brntn"
 "70106","70106","Boston College Station - Inbound",,"42.340081","-71.166769",,,,"place-lake"
 "70107","70107","Boston College Station - Green Line",,"42.340081","-71.166769",,,,"place-lake"
-"70110","70110","South St - Inbound",,"42.339561","-71.157722",,,,
-"70111","70111","South St -  Outbound",,"42.3396","-71.157661",,,,
+"70110","70110","South St - Inbound",,"42.3396","-71.157661",,,,"place-sougr"
+"70111","70111","South St -  Outbound",,"42.3396","-71.157661",,,,"place-sougr"
 "70112","70112","Chestnut Hill Ave - Inbound",,"42.338169","-71.15316",,,,"place-chill"
 "70113","70113","Chestnut Hill Ave - Outbound",,"42.338169","-71.15316",,,,"place-chill"
-"70114","70114","Chiswick Rd - Inbound",,"42.340851","-71.150482",,,,
-"70115","70115","Chiswick Rd - Green Line B Outbound",,"42.340805","-71.150711",,,,
-"70116","70116","Sutherland Rd - Inbound",,"42.341518","-71.146164",,,,
-"70117","70117","Sutherland Rd - Outbound",,"42.341614","-71.146202",,,,
+"70114","70114","Chiswick Rd - Inbound",,"42.340805","-71.150711",,,,"place-chswk"
+"70115","70115","Chiswick Rd - Green Line B Outbound",,"42.340805","-71.150711",,,,"place-chswk"
+"70116","70116","Sutherland Rd - Inbound",,"42.341614","-71.146202",,,,"place-sthld"
+"70117","70117","Sutherland Rd - Outbound",,"42.341614","-71.146202",,,,"place-sthld"
 "70120","70120","Washington St - Inbound",,"42.343864","-71.142853",,,,"place-wascm"
 "70121","70121","Washington St - Outbound",,"42.343864","-71.142853",,,,"place-wascm"
-"70124","70124","Warren St - Inbound",,"42.348301","-71.140381",,,,
-"70125","70125","Warren St - Outbound",,"42.348343","-71.140457",,,,
-"70126","70126","Allston St - Inbound",,"42.34861","-71.137962",,,,
-"70127","70127","Allston St - Outbound",,"42.348701","-71.137955",,,,
-"70128","70128","Griggs St - Inbound",,"42.348545","-71.134697",,,,
-"70129","70129","Griggs St - Outbound",,"42.348545","-71.134949",,,,
+"70124","70124","Warren St - Inbound",,"42.348343","-71.140457",,,,"place-wrnst"
+"70125","70125","Warren St - Outbound",,"42.348343","-71.140457",,,,"place-wrnst"
+"70126","70126","Allston St - Inbound",,"42.348701","-71.137955",,,,"place-alsgr"
+"70127","70127","Allston St - Outbound",,"42.348701","-71.137955",,,,"place-alsgr"
+"70128","70128","Griggs St - Inbound",,"42.348545","-71.134949",,,,"place-grigg"
+"70129","70129","Griggs St - Outbound",,"42.348545","-71.134949",,,,"place-grigg"
 "70130","70130","Harvard Ave - Inbound",,"42.350243","-71.131355",,,,"place-harvd"
 "70131","70131","Harvard Ave - Westbound",,"42.350243","-71.131355",,,,"place-harvd"
 "70134","70134","Packards Corner - Inbound",,"42.351967","-71.125031",,,,"place-brico"
 "70135","70135","Packards Corner - Outbound",,"42.351967","-71.125031",,,,"place-brico"
 "70136","70136","Babcock St - Inbound",,"42.35182","-71.12165",,,,"place-babck"
 "70137","70137","Babcock St - Outbound",,"42.35182","-71.12165",,,,"place-babck"
-"70138","70138","Pleasant St - Inbound",,"42.351402","-71.118767",,,,
-"70139","70139","Pleasant St - Outbound",,"42.351521","-71.118889",,,,
-"70140","70140","Saint Paul St - Inbound",,"42.351059","-71.115982",,,,
-"70141","70141","Saint Paul St - Outbound",,"42.3512","-71.116104",,,,
-"70142","70142","Boston Univ West - Inbound",,"42.350803","-71.113831",,,,
-"70143","70143","Boston Univ West - Green Line B Outbound",,"42.350941","-71.113876",,,,
-"70144","70144","Boston Univ Central - Inbound",,"42.349949","-71.106781",,,,
-"70145","70145","Boston Univ Central - Outbound",,"42.350082","-71.106865",,,,
-"70146","70146","Boston Univ East - Inbound",,"42.349571","-71.103867",,,,
-"70147","70147","Boston Univ East - Outbound",,"42.349735","-71.103889",,,,
+"70138","70138","Pleasant St - Inbound",,"42.351521","-71.118889",,,,"place-plsgr"
+"70139","70139","Pleasant St - Outbound",,"42.351521","-71.118889",,,,"place-plsgr"
+"70140","70140","Saint Paul St - Inbound",,"42.3512","-71.116104",,,,"place-stplb"
+"70141","70141","Saint Paul St - Outbound",,"42.3512","-71.116104",,,,"place-stplb"
+"70142","70142","Boston Univ West - Inbound",,"42.350941","-71.113876",,,,"place-buwst"
+"70143","70143","Boston Univ West - Green Line B Outbound",,"42.350941","-71.113876",,,,"place-buwst"
+"70144","70144","Boston Univ Central - Inbound",,"42.350082","-71.106865",,,,"place-bucen"
+"70145","70145","Boston Univ Central - Outbound",,"42.350082","-71.106865",,,,"place-bucen"
+"70146","70146","Boston Univ East - Inbound",,"42.349735","-71.103889",,,,"place-buest"
+"70147","70147","Boston Univ East - Outbound",,"42.349735","-71.103889",,,,"place-buest"
 "70148","70148","Blanford St - Inbound",,"42.349293","-71.100258",,,,"place-bland"
 "70149","70149","Blandford St - Outbound",,"42.349293","-71.100258",,,,"place-bland"
 "70150","70150","Kenmore Station - Inbound",,"42.348949","-71.095169",,,,"place-kencl"
@@ -6217,28 +6218,28 @@
 "70210","70210","Lechmere - Green Line Inbound",,"42.370772","-71.076536",,,,"place-lech"
 "70211","70211","Saint Mary St - Outbound",,"42.345974","-71.107353",,,,"place-smary"
 "70212","70212","Saint Mary St - Inbound",,"42.345974","-71.107353",,,,"place-smary"
-"70213","70213","Hawes St - Outbound",,"42.344906","-71.111145",,,,
-"70214","70214","Hawes St - Inbound",,"42.344856","-71.111115",,,,
-"70215","70215","Kent St - Outbound",,"42.344074","-71.114197",,,,
-"70216","70216","Kent St - Inbound",,"42.344101","-71.113838",,,,
+"70213","70213","Hawes St - Outbound",,"42.344906","-71.111145",,,,"place-hwsst"
+"70214","70214","Hawes St - Inbound",,"42.344906","-71.111145",,,,"place-hwsst"
+"70215","70215","Kent St - Outbound",,"42.344074","-71.114197",,,,"place-kntst"
+"70216","70216","Kent St - Inbound",,"42.344074","-71.114197",,,,"place-kntst"
 "70217","70217","Saint Paul St - Outbound",,"42.343327","-71.116997",,,,"place-stpul"
 "70218","70218","Saint Paul St - Inbound",,"42.343327","-71.116997",,,,"place-stpul"
 "70219","70219","Coolidge Corner - Outbound",,"42.342213","-71.121201",,,,"place-cool"
 "70220","70220","Coolidge Corner - Inbound",,"42.342213","-71.121201",,,,"place-cool"
-"70223","70223","Summit Ave - Outbound",,"42.34111","-71.12561",,,,
-"70224","70224","Summit Ave - Inbound",,"42.341091","-71.125229",,,,
-"70225","70225","Brandon Hall - Outbound",,"42.340023","-71.129082",,,,
-"70226","70226","Brandon Hall - Inbound",,"42.339775","-71.129372",,,,
-"70227","70227","Fairbanks St - Outbound",,"42.339725","-71.131073",,,,
-"70228","70228","Fairbanks St - Inbound",,"42.339523","-71.131416",,,,
+"70223","70223","Summit Ave - Outbound",,"42.34111","-71.12561",,,,"place-sumav"
+"70224","70224","Summit Ave - Inbound",,"42.34111","-71.12561",,,,"place-sumav"
+"70225","70225","Brandon Hall - Outbound",,"42.340023","-71.129082",,,,"place-bndhl"
+"70226","70226","Brandon Hall - Inbound",,"42.340023","-71.129082",,,,"place-bndhl"
+"70227","70227","Fairbanks St - Outbound",,"42.339725","-71.131073",,,,"place-fbkst"
+"70228","70228","Fairbanks St - Inbound",,"42.339725","-71.131073",,,,"place-fbkst"
 "70229","70229","Washington Sq - Outbound",,"42.339394","-71.13533",,,,"place-bcnwa"
 "70230","70230","Washington Sq - Inbound",,"42.339394","-71.13533",,,,"place-bcnwa"
-"70231","70231","Tappan St - Outbound",,"42.338459","-71.138702",,,,
-"70232","70232","Tappan St - Inbound",,"42.338436","-71.138687",,,,
-"70233","70233","Dean Rd - Outbound",,"42.337807","-71.141853",,,,
-"70234","70234","Dean Rd - Inbound",,"42.337738","-71.141647",,,,
-"70235","70235","Englewood Ave - Outbound",,"42.336971","-71.14566",,,,
-"70236","70236","Englewood Ave - Inbound",,"42.336998","-71.145317",,,,
+"70231","70231","Tappan St - Outbound",,"42.338459","-71.138702",,,,"place-tapst"
+"70232","70232","Tappan St - Inbound",,"42.338459","-71.138702",,,,"place-tapst"
+"70233","70233","Dean Rd - Outbound",,"42.337807","-71.141853",,,,"place-denrd"
+"70234","70234","Dean Rd - Inbound",,"42.337807","-71.141853",,,,"place-denrd"
+"70235","70235","Englewood Ave - Outbound",,"42.336971","-71.14566",,,,"place-engav"
+"70236","70236","Englewood Ave - Inbound",,"42.336971","-71.14566",,,,"place-engav"
 "70237","70237","Cleveland Circle Platform",,"42.336142","-71.149326",,,,"place-clmnl"
 "70238","70238","Cleveland Circle Platform - Inbound",,"42.336142","-71.149326",,,,"place-clmnl"
 "70239","70239","Prudential Station - Outbound",,"42.34557","-71.081696",,,,"place-prmnl"
@@ -6249,33 +6250,33 @@
 "70244","70244","Northeastern - Inbound",,"42.340401","-71.088806",,,,"place-nuniv"
 "70245","70245","Museum of Fine Arts - Outbound",,"42.337711","-71.095512",,,,"place-mfa"
 "70246","70246","Museum of Fine Arts - Inbound",,"42.337711","-71.095512",,,,"place-mfa"
-"70247","70247","Longwood Med Area - Outbound",,"42.335957","-71.100052",,,,
-"70248","70248","Longwood Med Area - Inbound",,"42.335903","-71.100052",,,,
+"70247","70247","Longwood Med Area - Outbound",,"42.33596","-71.100052",,,,"place-lngmd"
+"70248","70248","Longwood Med Area - Inbound",,"42.33596","-71.100052",,,,"place-lngmd"
 "70249","70249","Brigham Circle - Outbound",,"42.334229","-71.104609",,,,"place-brmnl"
 "70250","70250","Brigham Circle - Inbound",,"42.334229","-71.104609",,,,"place-brmnl"
-"70251","70251","Fenwood Rd - Outbound",,"42.333706","-71.105728",,,,
-"70252","70252","Fenwood Rd - Inbound",,"42.333683","-71.105698",,,,
-"70253","70253","Mission Park - Outbound",,"42.333195","-71.109756",,,,
-"70254","70254","Mission Park - Inbound",,"42.333122","-71.109688",,,,
-"70255","70255","Riverway - Outbound",,"42.331684","-71.111931",,,,
-"70256","70256","Riverway - Inbound",,"42.331699","-71.11187",,,,
-"70257","70257","Back of Hill - Outbound",,"42.330139","-71.111313",,,,
-"70258","70258","Back of Hill - Inbound",,"42.330139","-71.111298",,,,
+"70251","70251","Fenwood Rd - Outbound",,"42.333706","-71.105728",,,,"place-fenwd"
+"70252","70252","Fenwood Rd - Inbound",,"42.333706","-71.105728",,,,"place-fenwd"
+"70253","70253","Mission Park - Outbound",,"42.333195","-71.109756",,,,"place-mispk"
+"70254","70254","Mission Park - Inbound",,"42.333195","-71.109756",,,,"place-mispk"
+"70255","70255","Riverway - Outbound",,"42.331684","-71.111931",,,,"place-rvrwy"
+"70256","70256","Riverway - Inbound",,"42.331684","-71.111931",,,,"place-rvrwy"
+"70257","70257","Back of Hill - Outbound",,"42.330139","-71.111313",,,,"place-bckhl"
+"70258","70258","Back of Hill - Inbound",,"42.330139","-71.111313",,,,"place-bckhl"
 "70260","70260","Heath St Platform - Green Line E",,"42.328681","-71.110559",,,,"place-hsmnl"
 "70261","70261","Ashmont Station - Westbound",,"42.284652","-71.064489",,,,"place-asmnl"
 "70262","70262","Ashmont Station - Eastbound",,"42.284652","-71.064489",,,,"place-asmnl"
 "70263","70263","Cedar Grove - Westbound",,"42.279682","-71.060432",,,,"place-cedgr"
-"70264","70264","Cedar Grove - Eastbound",,"42.279694","-71.060379",,,,"place-cedgr"
+"70264","70264","Cedar Grove - Eastbound",,"42.279682","-71.060432",,,,"place-cedgr"
 "70265","70265","Butler Station - Westbound",,"42.272343","-71.062584",,,,"place-butlr"
-"70266","70266","Butler Station - Eastbound",,"42.272289","-71.0625",,,,"place-butlr"
+"70266","70266","Butler Station - Eastbound",,"42.272343","-71.062584",,,,"place-butlr"
 "70267","70267","Milton Station - Westbound",,"42.270306","-71.067673",,,,"place-miltt"
-"70268","70268","Milton Station - Eastbound",,"42.270275","-71.067665",,,,"place-miltt"
+"70268","70268","Milton Station - Eastbound",,"42.270306","-71.067673",,,,"place-miltt"
 "70269","70269","Central Ave - Westbound",,"42.270027","-71.073334",,,,"place-cenav"
-"70270","70270","Central Ave - Eastbound",,"42.26997","-71.073311",,,,"place-cenav"
-"70271","70271","Valley Rd - Westbound",,"42.26838","-71.08155",,,,"place-valrd"
-"70272","70272","Valley Rd - Eastbound",,"42.26831","-71.08152",,,,"place-valrd"
+"70270","70270","Central Ave - Eastbound",,"42.270027","-71.073334",,,,"place-cenav"
+"70271","70271","Valley Rd - Westbound",,"42.268322","-71.081566",,,,"place-valrd"
+"70272","70272","Valley Rd - Eastbound",,"42.268322","-71.081566",,,,"place-valrd"
 "70273","70273","Capen St - Westbound",,"42.267712","-71.087753",,,,"place-capst"
-"70274","70274","Capen St - Eastbound",,"42.267563","-71.087425",,,,"place-capst"
+"70274","70274","Capen St - Eastbound",,"42.267712","-71.087753",,,,"place-capst"
 "70275","70275","Mattapan Station - Westbound",,"42.267762","-71.092241",,,,"place-matt"
 "70276","70276","Mattapan Station - Eastbound",,"42.267762","-71.092241",,,,"place-matt"
 "70618","70618","272 Washington St",,"42.25058","-71.170265",,,,
@@ -6454,7 +6455,6 @@
 "73","73","Massachusetts Ave @ Sidney St",,"42.362804","-71.09951",,,,
 "730","730","Franklin St @ Sidney St",,"42.361835","-71.100647",,,,
 "7300","7300","Chestnut St @ Western Ave",,"42.47718","-70.949074",,,,
-"7301","7301","Western Ave @ Cleveland St",,"42.476128","-70.95002",,,,
 "7302","7302","Western Ave opp Linden Terr",,"42.475048","-70.951042",,,,
 "7303","7303","Western Ave opp Bayview Ave",,"42.473869","-70.952179",,,,
 "7304","7304","Western Ave opp Nichols Ave",,"42.472404","-70.953781",,,,
@@ -6672,7 +6672,6 @@
 "75467","75467","Hyde Park Ave @ Glenwood Ave",,"42.248444","-71.12693",,,,
 "7547","7547","665 Broadway",,"42.443001","-71.029984",,,,
 "7548","7548","735 Broadway",,"42.444317","-71.028816",,,,
-"7549","7549","1500 Broadway",,"42.448875","-71.026611",,,,
 "7550","7550","1434 Broadway",,"42.45097","-71.025154",,,,
 "7555","7555","Vine St @ Talbot St",,"42.462627","-71.018822",,,,
 "7556","7556","49 Vine St",,"42.461575","-71.019188",,,,
@@ -6959,34 +6958,34 @@
 "786","786","Belgrade Ave @ Centre St",,"42.28701","-71.150085",,,,
 "7860","7860","Lexington St @ Lexington Terr",,"42.380352","-71.236076",,,,
 "78600","78600","135 Beaver St.",,"42.383144","-71.208427",,,,
-"78601","78601","271 Waverley Oaks Rd.",,"42.385113","-71.207291",,,,
+"78601","78601","271 Waverley Oaks Rd",,"42.385113","-71.207291",,,,
 "78602","78602","Waverley Oaks Rd opp Parkview Rd",,"42.386894","-71.203903",,,,
 "78603","78603","Waverley Oaks Rd opp Brookfield Rd",,"42.390358","-71.198021",,,,
-"78604","78604","Trapelo Rd. @ Briarwood Rd.",,"42.392544","-71.201897",,,,
-"78605","78605","Trapelo Rd. @ Chase Rd.",,"42.393993","-71.204323",,,,
-"78606","78606","Trapelo Rd. @ Porter Rd.",,"42.395336","-71.206703",,,,
-"78607","78607","opp. 380 Trapelo Rd.",,"42.398895","-71.211929",,,,
-"78608","78608","Forest St. @ Doty St.",,"42.400867","-71.215065",,,,
-"78609","78609","Forest St. @ Harrington Rd.",,"42.396793","-71.217216",,,,
+"78604","78604","Trapelo Rd @ Briarwood Rd",,"42.392544","-71.201897",,,,
+"78605","78605","Trapelo Rd @ Chase Rd",,"42.393993","-71.204323",,,,
+"78606","78606","Trapelo Rd @ Porter Rd",,"42.395336","-71.206703",,,,
+"78607","78607","Opp 380 Trapelo Rd",,"42.398895","-71.211929",,,,
+"78608","78608","Forest St @ Doty St",,"42.400867","-71.215065",,,,
+"78609","78609","Forest St @ Harrington Rd",,"42.396793","-71.217216",,,,
 "7861","7861","Lexington St opp Shopping Plaza",,"42.380756","-71.236191",,,,
-"78610","78610","260 Forest St.",,"42.393353","-71.220192",,,,
-"78611","78611","Forest St. @ Woodcliff Dr.",,"42.389526","-71.223335",,,,
-"78612","78612","Forest St. @ Beaver St.",,"42.385845","-71.225952",,,,
+"78610","78610","260 Forest St",,"42.393353","-71.220192",,,,
+"78611","78611","Forest St @ Pigeon Ln",,"42.391479","-71.221916",,,,
+"78612","78612","Forest St @ Beaver St",,"42.385845","-71.225952",,,,
 "78618","78618","Washington St @ Lewis Park Dr",,"42.150414","-71.225967",,,,
 "7862","7862","Dale St @ Lexington St",,"42.383171","-71.237099",,,,
-"78620","78620","Forest St. @ Beaver St.",,"42.385967","-71.225746",,,,
-"78621","78621","Forest St. opp. Woodcliff Dr.",,"42.389324","-71.223305",,,,
-"78622","78622","Forest St. opp. Harrington Rd.",,"42.392998","-71.22036",,,,
-"78623","78623","Forest St. @ Gann Academy",,"42.395679","-71.217972",,,,
-"78624","78624","Forest St. @ Doty St.",,"42.400829","-71.214943",,,,
-"78625","78625","380 Trapelo Rd.",,"42.398785","-71.21196",,,,
-"78626","78626","Trapelo Rd. opp. Porter Rd.",,"42.395367","-71.20697",,,,
-"78627","78627","Trapelo Rd. @ Cherry Ln.",,"42.394066","-71.204643",,,,
-"78628","78628","Trapelo Rd. opp. Briarwood Rd.",,"42.392467","-71.201973",,,,
+"78620","78620","Forest St @ Beaver St",,"42.385967","-71.225746",,,,
+"78621","78621","Forest St opp Woodcliff Dr",,"42.389324","-71.223305",,,,
+"78622","78622","Forest St opp Harrington Rd",,"42.392998","-71.22036",,,,
+"78623","78623","Forest St @ Gann Academy",,"42.395679","-71.217972",,,,
+"78624","78624","Forest St @ Doty St",,"42.400829","-71.214943",,,,
+"78625","78625","380 Trapelo Rd",,"42.398785","-71.21196",,,,
+"78626","78626","Trapelo Rd opp Porter Rd",,"42.395367","-71.20697",,,,
+"78627","78627","Trapelo Rd @ Cherry Ln",,"42.394066","-71.204643",,,,
+"78628","78628","Trapelo Rd opp Briarwood Rd",,"42.392467","-71.201973",,,,
 "78629","78629","Waverley Oaks Rd @ Brookfield Rd",,"42.390366","-71.198166",,,,
 "7863","7863","45 Dale St",,"42.383709","-71.23967",,,,
 "78630","78630","Waverley Oaks Rd @ Parkview Rd",,"42.386959","-71.20401",,,,
-"78631","78631","opp. 271 Waverley Oaks Rd.",,"42.385181","-71.207375",,,,
+"78631","78631","Opp 271 Waverley Oaks Rd",,"42.385181","-71.207375",,,,
 "78632","78632","opp. 135 Beaver St.",,"42.383072","-71.208504",,,,
 "7864","7864","Dale St @ Bacon St",,"42.384041","-71.241272",,,,
 "7865","7865","Beaver St @ Valley View Rd",,"42.384571","-71.231667",,,,
@@ -8043,7 +8042,7 @@
 "91856","91856","Stuart St @ Tremont St",,"42.351135","-71.064766",,,,
 "9186","9186","Opp 830 Main St",,"42.486404","-71.068832",,,,
 "9187","9187","Main St @ Forest St",,"42.484184","-71.067787",,,,
-"9188","9188","Main St @ Greenwood St",,"42.482491","-71.066376",,,,
+"9188","9188","Main St @ Greenwood Plaza",,"42.482071","-71.066055",,,,
 "9189","9189","Main St @ Marion Ct",,"42.479893","-71.064346",,,,
 "919","919","Washington St opp Waldo Terr",,"42.349003","-71.152191",,,,
 "9190","9190","Main St opp Pitman Ave",,"42.478474","-71.063164",,,,
@@ -8185,7 +8184,6 @@
 "9328","9328","Oak Grove Station @ Orange Line",,"42.43668","-71.071097",,,,"place-ogmnl"
 "933","933","Commonwealth Ave @ Babcock St",,"42.351566","-71.12117",,,,
 "9339","9339","Hunting St @ Salem St",,"42.434174","-71.038376",,,,
-"93391","93391","Huntington Ave @ Francis St",,"42.334278","-71.10479",,,,
 "934","934","Commonwealth Ave @ Pleasant St",,"42.351238","-71.118423",,,,
 "9340","9340","Hunting St @ Coleman St",,"42.434044","-71.036057",,,,
 "9343","9343","Main St @ Ledgewood Ave",,"42.44585","-71.068146",,,,
@@ -8197,7 +8195,7 @@
 "939","939","Commonwealth Ave @ Hinsdale St",,"42.349396","-71.103058",,,,
 "94","94","Massachusetts Ave @ Commonwealth Ave",,"42.348999","-71.088493",,,,
 "9406","9406","Morton St @ Harvard St",,"42.287811","-71.09388",,,,
-"941","941","Commonwealth Ave @ Blanford St",,"42.348969","-71.09964",,,,
+"941","941","Commonwealth Ave @ Blandford St",,"42.348969","-71.09964",,,,
 "9412","9412","Talbot Ave @ Franklin Field",,"42.294792","-71.087685",,,,
 "9421","9421","E Newton St @ Washington St",,"42.338821","-71.073502",,,,
 "94320","94320","Neptune Blvd.  @ Blossom St",,"42.460632","-70.954094",,,,
@@ -8280,12 +8278,6 @@
 "9983","9983","Stuart St @ Charles St S",,"42.35104","-71.066795",,,,
 "99832","99832","245 Washington St",,"42.251984","-71.168846",,,,
 "99991","99991","South St @ Centre St",,"42.309196","-71.115685",,,,
-"place-cedgr","","Cedar Grove Station","","42.279682","-71.060432","","",1,""
-"place-butlr","","Butler Station","","42.272343","-71.062584","","",1,""
-"place-miltt","","Milton Station","","42.270306","-71.067673","","",1,""
-"place-cenav","","Central Ave. Station","","42.270027","-71.073334","","",1,""
-"place-valrd","","Valley Road Station","","42.26831","-71.08152","","",1,""
-"place-capst","","Capen St. Station","","42.267712","-71.087753","","",1,""
 "Wickford Junction",,"Wickford Junction",,"41.580800","-71.491400",,,"0",
 "Abington","","Abington",,"42.108034","-70.935296","",,"0",""
 "Anderson/ Woburn","","Anderson/ Woburn","","42.518082","-71.138650","","","0",""
@@ -8303,9 +8295,9 @@
 "Bradford","","Bradford","","42.768899","-71.085998","","","0",""
 "Braintree","","Braintree","","42.208550","-71.000850","","","0","place-brntn"
 "Brandeis/ Roberts","","Brandeis/ Roberts","","42.361728","-71.260854","","","0",""
-"Bridgewater","","Bridgewater","Weekend service suspended and schedules subject to change due to tie replacement project. See mbta.com for more.","41.986355","-70.966625","",,"0",""
-"Brockton","","Brockton","Weekend service suspended and schedules subject to change due to tie replacement project. See mbta.com for more.","42.085720","-71.016860","",,"0",""
-"Campello","","Campello","Weekend service suspended and schedules subject to change due to tie replacement project. See mbta.com for more.","42.060038","-71.012460","",,"0",""
+"Bridgewater","","Bridgewater",,"41.986355","-70.966625","",,"0",""
+"Brockton","","Brockton",,"42.085720","-71.016860","",,"0",""
+"Campello","","Campello",,"42.060038","-71.012460","",,"0",""
 "Canton Center","","Canton Center","","42.156769","-71.145530","","","0",""
 "Canton Junction","","Canton Junction","","42.163423","-71.153374","","","0",""
 "Chelsea","","Chelsea","","42.395661","-71.034826","","","0",""
@@ -8331,7 +8323,7 @@
 "Haverhill","","Haverhill","","42.772684","-71.085962","","","0",""
 "Hersey","","Hersey","","42.275842","-71.214853","","","0",""
 "Highland","","Highland","","42.284869","-71.154700","","","0",""
-"Holbrook/ Randolph","","Holbrook/ Randolph","Weekend service suspended and schedules subject to change due to tie replacement project. See mbta.com for more.","42.155314","-71.027518","",,"0",""
+"Holbrook/ Randolph","","Holbrook/ Randolph",,"42.155314","-71.027518","",,"0",""
 "Hyde Park","","Hyde Park","","42.255121","-71.125022","","","0",""
 "Ipswich","","Ipswich","","42.678355","-70.840024","","","0",""
 "Islington","","Islington","","42.220714","-71.183406","","","0",""
@@ -8348,9 +8340,9 @@
 "Mansfield","","Mansfield","","42.032734","-71.219318","","","0",""
 "Melrose Cedar Park","","Melrose Cedar Park","","42.459128","-71.069448","","","0",""
 "Melrose Highlands","","Melrose Highlands","","42.468793","-71.068270","","","0",""
-"Middleborough/ Lakeville","","Middleborough/ Lakeville","Weekend service suspended and schedules subject to change due to tie replacement project. See mbta.com for more.","41.878210","-70.918444","",,"0",""
+"Middleborough/ Lakeville","","Middleborough/ Lakeville",,"41.878210","-70.918444","",,"0",""
 "Mishawum","","Mishawum","","42.503595","-71.137511","","","0",""
-"Montello","","Montello","Weekend service suspended and schedules subject to change due to tie replacement project. See mbta.com for more.","42.106047","-71.021078","",,"0",""
+"Montello","","Montello",,"42.106047","-71.021078","",,"0",""
 "Montserrat","","Montserrat","","42.561483","-70.870035","","","0",""
 "Morton Street","","Morton Street","","42.280994","-71.085475","","","0",""
 "Nantasket Junction","","Nantasket Junction",,"42.245200","-70.869800","",,"0",""

@@ -177,9 +177,7 @@
 "80","1","80",,,3,,"FFFF7C","000000"
 "810_","1",,"Green Line",,0,,"427B1D","FFFFFF"
 "812_","1",,"Green Line",,0,,"427B1D","FFFFFF"
-"813_","1",,"Green Line",,0,,"427B1D","FFFFFF"
 "822_","1",,"Green Line",,0,,"427B1D","FFFFFF"
-"823_","1",,"Green Line",,0,,"427B1D","FFFFFF"
 "83","1","83",,,3,,"FFFF7C","000000"
 "830_","1",,"Green Line",,0,,"427B1D","FFFFFF"
 "831_","1",,"Green Line",,0,,"427B1D","FFFFFF"
@@ -190,7 +188,7 @@
 "852_","1",,"Green Line",,0,,"427B1D","FFFFFF"
 "86","1","86",,,3,,"FFFF7C","000000"
 "87","1","87",,,3,,"FFFF7C","000000"
-"872_","1",,"Green Line",,0,,"427B1D","FFFFFF"
+"870_","1",,"Green Line",,0,,"427B1D","FFFFFF"
 "88","1","88",,,3,,"FFFF7C","000000"
 "880_","1",,"Green Line",,0,,"427B1D","FFFFFF"
 "881_","1",,"Green Line",,0,,"427B1D","FFFFFF"
@@ -233,7 +231,7 @@
 "CR-Newburyport","1","","Newburyport/Rockport Line","",2,"","8B118F","FFFFFF"
 "CR-Providence","1","","Providence/Stoughton Line","",2,"","8B118F","FFFFFF"
 "CR-Kingston","1",,"Kingston/Plymouth Line",,2,,"8B118F","FFFFFF"
-"CR-Middleborough","1",,"Middleborough/Lakeville Line","Weekend service suspended and schedules subject to change due to tie replacement project. See mbta.com for more.",2,,"8B118F","FFFFFF"
+"CR-Middleborough","1",,"Middleborough/Lakeville Line",,2,,"8B118F","FFFFFF"
 "Boat-F1","1","F1","Hingham Ferry",,4,,,
 "Boat-F2","1","F2","Quincy Ferry",,4,,,
 "Boat-F2(H)","1","F2(H)","Quincy/Hull Ferry",,4,,,
