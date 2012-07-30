@@ -25,6 +25,7 @@ import org.joda.time.LocalTime;
 import com.rails.mbta.commuterrail.model.Line;
 import com.rails.mbta.commuterrail.schedule.Calendar;
 import com.rails.mbta.commuterrail.schedule.Route;
+import com.rails.mbta.commuterrail.schedule.Station;
 import com.rails.mbta.commuterrail.schedule.Stop;
 import com.rails.mbta.commuterrail.schedule.StopTime;
 import com.rails.mbta.commuterrail.schedule.Trip;
@@ -33,6 +34,9 @@ public class CommuterRailGTFSParser {
     public static void main(String[] args) {
         RouteFileReader routeFileReader = new RouteFileReader();
         routeFileReader.read("routes.txt");
+
+        StationFileReader stationFileReader = new StationFileReader(routeFileReader.routesByid);
+        stationFileReader.read("CommuterRailStationLineOrdering.csv");
 
         TripFileReader tripFileReader = new TripFileReader(routeFileReader.routesByid);
         tripFileReader.read("trips.txt");
@@ -156,8 +160,6 @@ public class CommuterRailGTFSParser {
             if (stopIds.contains(lineValues[headerIndex.get("stop_id")])) {
                 Stop stop = new Stop();
                 stop.stopId = lineValues[headerIndex.get("stop_id")];
-                stop.stopLat = lineValues[headerIndex.get("stop_lat")];
-                stop.stopLon = lineValues[headerIndex.get("stop_lon")];
                 stop.stopName = lineValues[headerIndex.get("stop_name")];
 
                 for (StopTime stopTime : stopTimes) {
@@ -216,6 +218,44 @@ public class CommuterRailGTFSParser {
     private static LocalDate getLocalDate(String date) {
         return new LocalDate(Integer.valueOf(date.substring(0, 4)), Integer.valueOf(date.substring(4, 6)),
                 Integer.valueOf(date.substring(6, 8)));
+    }
+
+    private static class StationFileReader extends GTFSFileReader {
+        private Map<String, Route> routesById;
+
+        public StationFileReader(Map<String, Route> routesByid) {
+            this.routesById = routesByid;
+        }
+
+        @Override
+        protected boolean parseLine(String[] lineValues, Map<String, Integer> headerIndex) {
+            if (lineValues.length == 0) {
+                return false;
+            }
+            if (lineValues[headerIndex.get("direction_id")].equals("0")) {
+                return false;
+            }
+
+            for (Map.Entry<String, Route> route : routesById.entrySet()) {
+                if (!lineValues[headerIndex.get("route_long_name")].equals(route.getValue().routeLongName)) {
+                    continue;
+                }
+
+                Station station = new Station();
+                station.routeLongName = lineValues[headerIndex.get("route_long_name")];
+                station.branch = lineValues[headerIndex.get("Branch")];
+                station.directionId = Integer.valueOf(lineValues[headerIndex.get("direction_id")]);
+                station.stopId = lineValues[headerIndex.get("stop_id")];
+                station.stopLat = Double.valueOf(lineValues[headerIndex.get("stop_lat")]);
+                station.stopLon = Double.valueOf(lineValues[headerIndex.get("stop_lon")]);
+                station.stopSequence = Integer.valueOf(lineValues[headerIndex.get("stop_sequence")]);
+
+                route.getValue().stations.add(station);
+
+                return true;
+            }
+            return false;
+        }
     }
 
     private static class TripFileReader extends GTFSFileReader {
