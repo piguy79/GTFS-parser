@@ -1,4 +1,5 @@
 Wickford Junction,,Wickford Junction,,41.580800,-71.491400,,,0,
+Talbot Avenue,,Talbot Avenue,Talbot Avenue Station is scheduled to open on November 12, 2012,42.292246,-71.078140,,,0,
 Abington,,Abington,,42.108034,-70.935296,,,0,
 Anderson/ Woburn,,Anderson/ Woburn,,42.518082,-71.138650,,,0,
 Andover,,Andover,,42.657798,-71.144513,,,0,
