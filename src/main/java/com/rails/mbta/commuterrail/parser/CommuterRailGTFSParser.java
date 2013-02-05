@@ -50,7 +50,6 @@ public class CommuterRailGTFSParser {
         for (Map.Entry<String, Route> route : routeFileReader.routesByid.entrySet()) {
             for (Trip trip : route.getValue().trips) {
                 Collections.sort(trip.stopTimes, new Comparator<StopTime>() {
-                    @Override
                     public int compare(StopTime o1, StopTime o2) {
                         return (Integer.valueOf(o1.stopSequence)).compareTo(Integer.valueOf(o2.stopSequence));
                     }
@@ -63,7 +62,6 @@ public class CommuterRailGTFSParser {
          */
         for (Map.Entry<String, Route> route : routeFileReader.routesByid.entrySet()) {
             Collections.sort(route.getValue().trips, new Comparator<Trip>() {
-                @Override
                 public int compare(Trip o1, Trip o2) {
                     return o1.stopTimes.get(0).departureTime.compareTo(o2.stopTimes.get(0).departureTime);
                 }
